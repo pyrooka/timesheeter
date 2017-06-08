@@ -1,0 +1,14 @@
+[AUTH]
+# Path to the credential file you downloaded from Google Console.
+CredentialPath = 
+
+[SHEET]
+# Name of the spreadsheet in your Google Docs.
+Name = 
+# Name of the tab in the spreadsheet.
+TabTitle = 
+
+[INTERFACE]
+# How many rows display on start.
+DisplayRows = 10
+
